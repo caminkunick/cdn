@@ -1,3 +1,3 @@
 ```
-https://cdn.jsdelivr.net/gh/caminkunick/cdn@master/${file_part}
+https://cdn.jsdelivr.net/gh/caminkunick/cdn@main/${file_part}
 ```
