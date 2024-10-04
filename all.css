@@ -1,2 +1,7 @@
 @import url('https://cdn.jsdelivr.net/gh/caminkunick/cdn@master/fontawesome.css');
 @import url('https://cdn.jsdelivr.net/gh/caminkunick/cdn@master/solid.css');
+
+@font-face {
+  font-family: "pmk";
+  src: url("https://cdn.jsdelivr.net/gh/caminkunick/cdn@master/fonts/pmk.ttf") format("truetype");
+}
